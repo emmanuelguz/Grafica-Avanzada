@@ -1,0 +1,4 @@
+C:\Users\OEM\source\repos\GA_1ro\x64\Debug\GA_1ro.exe
+C:\Users\OEM\source\repos\GA_1ro\x64\Debug\GA_1ro.pdb
+C:\Users\OEM\Documents\GitHub\PrograGraf\GA_1ro\x64\Debug\GA_1ro.exe
+C:\Users\OEM\Documents\GitHub\PrograGraf\GA_1ro\x64\Debug\GA_1ro.pdb

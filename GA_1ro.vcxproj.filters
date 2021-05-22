@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="glad.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="texture.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\glfw\glad.zip" />
+    <None Include="texture.fs">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="texture.vs">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="luces2.fs">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="luces2.vs">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="luces1.fs">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="luces1.vs">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="skybox.fs">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="skybox.vs">
+      <Filter>Archivos de origen</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="shader.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="lavaTexture.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="lisa.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="dvd.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="cosa1.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="macarena.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="contenedor.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="woodwall.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="brick.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="ghost.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="green.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="marble.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="smoke.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="marfil.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="descarga.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="tejas.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="wood2.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

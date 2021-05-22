@@ -1,0 +1,11 @@
+﻿  texture.cpp
+C:\Users\OEM\Documents\GitHub\PrograGraf\GA_1ro\shader.h(48,40): warning C4101: 'e': variable local sin referencia
+C:\Users\OEM\Documents\GitHub\PrograGraf\GA_1ro\texture.cpp(695,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\OEM\Documents\GitHub\PrograGraf\GA_1ro\texture.cpp(1151,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\OEM\Documents\GitHub\PrograGraf\GA_1ro\texture.cpp(1152,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\OEM\Documents\GitHub\PrograGraf\GA_1ro\texture.cpp(1156,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\OEM\Documents\GitHub\PrograGraf\GA_1ro\texture.cpp(1157,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\OEM\Documents\GitHub\PrograGraf\GA_1ro\texture.cpp(1159,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\OEM\Documents\GitHub\PrograGraf\GA_1ro\texture.cpp(1160,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\OEM\Documents\GitHub\PrograGraf\GA_1ro\texture.cpp(1169,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  GA_1ro.vcxproj -> C:\Users\OEM\Documents\GitHub\PrograGraf\GA_1ro\x64\Debug\GA_1ro.exe
